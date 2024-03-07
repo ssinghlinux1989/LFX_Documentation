@@ -92,7 +92,7 @@ Based on the type of **Entity Type** selected, the fields will vary accordingly.
 
 ## Branding and Media
 
-You can also provide details related to branding of the project like uploading the logo for the project, providing brand color and website details.
+You can also provide details related to the branding of the project like uploading the logo for the project and providing brand color and website details.
 
 To update branding and media information for a project, perform the following steps:
 
@@ -103,19 +103,13 @@ To update branding and media information for a project, perform the following st
 
 3. The Edit Branding and Media Details page appears. Update the following details and click **Save**:
 
-| **Field**               | **Action**                                                            |
-| ----------------------- | --------------------------------------------------------------------- |
-| **Project Logo**        | You can upload the project logo here.                                 |
-| **Brand Color**         | You can select the brand color using the color picker.                |
-| **Primary Website**     | Enter the primary website URL.                                        |
-| **Notifications Group** | Enter the email where you want notifications emails to be delivered.  |
-| **Social Handles**      | Provides details related to the social media account                  |
-| **Facebook**            | Enter the Facebook account URL.                                       |
-| **Twitter**             | Enter the Twitter account URL                                         |
-| **Pinterest**           | Enter the Pinterest account URL.                                      |
-| **LinkedIn**            | Enter the LinkedIn account URL.                                       |
-| **YouTube**             | Enter the YouTube account URL.                                        |
-| **Reddit**              | Enter the Reddit account URL.                                         |
+| **Field**               | **Action**                                                                                                     |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Project Logo**        | You can upload the project logo here.                                                                          |
+| **Brand Color**         | You can select the brand color using the color picker.                                                         |
+| **Primary Website**     | Enter the primary website URL.                                                                                 |
+| **Notifications Group** | Enter the email where you want notifications emails to be delivered.                                           |
+| **Social Handles**      | Provides details related to the social media account links, such as Facebook, Pinterest, YouTube, Reddit, etc. |
 
 <figure><img src="../../../.gitbook/assets/Edit Branding.gif" alt=""><figcaption><p>Edit Branding </p></figcaption></figure>
 
@@ -136,16 +130,15 @@ To update project staff information for a project, perform the following steps:
 
 ## Artifacts&#x20;
 
-Artifacts allow you to upload or add various project-related artifacts such as presentations, documents, and other artifacts to share with the member company users.&#x20;
+Artifacts allow you to upload or add various project-related artifacts, such as presentations, documents, and other artifacts, to share with member company users.&#x20;
 
 To add artifacts for a project, perform the following steps:
 
-1.Click on the required project and click **Project Definition.**
-
-2.Click **Add** from the Artifacts section to add artifacts.
+1. Click on the required project and click **Project Definition.**
+2. Click **Add** from the Artifacts section to add artifacts.
 
 <figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption><p>Artifacts </p></figcaption></figure>
 
-3.The Add Artifacts dialog box appears. Upload the required artifacts of the project and click **Save**.&#x20;
+3. The Add Artifacts dialog box appears. Upload the required artifacts of the project and click **Save**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Add Artifacts.gif" alt=""><figcaption><p>Add Artifacts </p></figcaption></figure>
