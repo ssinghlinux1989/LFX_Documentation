@@ -28,22 +28,24 @@ To update basic information for a project, perform the following steps:
 
 <figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Edit Project Details </p></figcaption></figure>
 
-3. The Edit Basic dialog box appears. Update the following details and click **Save**.
+3. The Edit Basic dialog box appears. Update the following details, and click **Save**.
 
 | **Field**                           | **Action**                                                                                                                                                                                                                |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Common Name**                     | You can update the common name that you have provided at the time of creating the project.                                                                                                                                |
-| **Category**                        | Category can be updated only when you have selected a parent project at the time of creating the project.                                                                                                                 |
-| **Slug**                            | Slug is a unique project identifier suitable for using in a URL. It is used to reference projects in a recognizable way by service within and outside of Linux Foundation platform.                                       |
+| **Common Name**                     | This field refers to the name by which the project is commonly known. Enter a recognizable name that accurately represents the project.                                                                                   |
+| **Category**                        | Select a category from the dropdown that best describes the nature of the project.                                                                                                                                        |
+| **Slug**                            | The slug is a user-friendly and URL-valid version of the project name. It is typically used in the project's URL and should be unique, descriptive, and easy to remember.                                                 |
 | **Stage**                           | Select the appropriate stage of the project. By default, the stage is selected to Prospect when you create a new project.                                                                                                 |
-| **Announcement Date**               | Select the date when the project will be released.                                                                                                                                                                        |
+| **Announcement Date**               | Select the date The date when the project was officially announced or launched.                                                                                                                                           |
+| **Repository URL**                  | The web address (URL) of the project's code repository, is typically hosted on a platform like GitHub.                                                                                                                    |
 | **Technology Sector**               | <p>Select an appropriate technology sector for your project. You can also select more than one sector.</p><p>If you feel that your project falls across all sectors, check the <strong>Cross Technology</strong> box.</p> |
 | **Industry Sector**                 | <p>Select an appropriate industry sector for your project. You can also select more than one sector.</p><p>If you feel that your project falls across all sectors, check the <strong>Cross-Industry</strong> box.</p>     |
-| **Technical Activity Type**         | Select an appropriate technical activity for your project. You can also select more than one sector.                                                                                                                      |
+| **Technical Activity Type**         | Select your project's technical activities from the dropdown, such as Open source software, Open Hardware, Open Data, Community Initiative, etc.                                                                          |
 | **Funding**                         | Select funding type for your project. If you select the funding type as **Funded**, then the **Model** field becomes mandatory.                                                                                           |
 | **Model**                           | Select an appropriate model for your project. This field becomes mandatory when the funding type of your project is **Funded**.                                                                                           |
-| **OpenSSF Best Practice Badge  ID** | Enter the OPenSSF Best Practice Badge ID. Earlier referred as CII Project ID.                                                                                                                                             |
-| **Description**                     | Provide a short description for your project.                                                                                                                                                                             |
+| **OpenSSF Best Practice Badge  ID** | If applicable, the ID of the Open Source Security Foundation (OpenSSF) Best Practices Badge awarded to the project. Earlier referred to as CII Project ID.                                                                |
+| **Description**                     | Provide the project's summary outlining its objectives, features, and key functionalities. This description helps in communicating the project's purpose and scope to stakeholders.                                       |
+| Mission Statment                    |  Write a concise statement that defines the project's core purpose and values. This statement serves as a guiding principle for decision-making and project direction.                                                    |
 
 <figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Edit Basic</p></figcaption></figure>
 
@@ -94,13 +96,12 @@ You can also provide details related to branding of the project like uploading t
 
 To update branding and media information for a project, perform the following steps:
 
-1.Click on the required project and click **Project Definition.**
-
-2.Click **Edit** from the Branding and Media section to update branding and media information.
+1. Click on the required project and click **Project Definition.**
+2. Click **Edit** from the Branding and Media section to update branding and media information.
 
 <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Branding and Media</p></figcaption></figure>
 
-3.The Edit Branding and Media Details page appears. Update the following details and click **Save**:
+3. The Edit Branding and Media Details page appears. Update the following details and click **Save**:
 
 | **Field**               | **Action**                                                            |
 | ----------------------- | --------------------------------------------------------------------- |
@@ -124,9 +125,8 @@ Project Setup also lets you update personnel information like executive name, ow
 
 To update project staff information for a project, perform the following steps:
 
-1.Click on the required project and click **Project Definition.**
-
-2.Click **Edit** from the Project Staff section to update project staff information.
+1. Click on the required project and click **Project Definition.**
+2. Click **Edit** from the Project Staff section to update project staff information.
 
 <figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Project Staff </p></figcaption></figure>
 
