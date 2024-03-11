@@ -51,6 +51,6 @@ This check passes if:
 * The Linux Foundation trademark disclaimer is found in the content of the website configured in Github. Regexps used:
 
 ```
-"https://(?:w{3}\.)?linuxfoundation.org/trademark-usage"
-"The Linux Foundation.* has registered trademarks and uses trademarks"
+Copyright © PROJECTNAME a Series of LF Projects, LLC
+For web site terms of use, trademark policy, and other project policies please see https://lfprojects.org.
 ```
