@@ -28,3 +28,8 @@ The tool fetches data from various sources, including your open-source project r
 You may see some delays in real-time data because the tool fetches data from various sources.&#x20;
 {% endhint %}
 
+### GitHub Data Source Monitoring
+
+{% hint style="info" %}
+**Note**: The [Community Management](https://cm.lfx.dev/) tool focuses exclusively on publicly available GitHub repositories. Forks and certain repositories are purposely excluded from monitoring to streamline the data integration process.
+{% endhint %}
