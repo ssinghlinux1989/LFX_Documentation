@@ -394,6 +394,7 @@
         * [Community Sentiment](project-control-center/v2-latest-version/reports/health-metrics/community-sentiment.md)
         * [Net Promoter Score (NPS)](project-control-center/v2-latest-version/reports/health-metrics/net-promoter-score-nps.md)
         * [Membership Churn](project-control-center/v2-latest-version/reports/health-metrics/membership-churn.md)
+        * [Outstanding Balance](project-control-center/v2-latest-version/reports/health-metrics/outstanding-balance.md)
         * [Events](project-control-center/v2-latest-version/reports/health-metrics/events.md)
         * [Training and Certification](project-control-center/v2-latest-version/reports/health-metrics/training-and-certification.md)
         * [Code Contributions](project-control-center/v2-latest-version/reports/health-metrics/code-contributions.md)
