@@ -17,22 +17,22 @@ The world runs on open source, and projects need more than a version control or 
 
 * [Insights ](http://lfx.linuxfoundation.org/tools/insights)give you complete visibility into project performance and ecosystem trends. Understand your contributor community and make informed decisions with our analytics and reporting tools.
 * [Security](http://lfx.linuxfoundation.org/tools/security) (Beta Available) gives you more visibility into your project's security by automatically monitoring thousands of open source repositories for possible vulnerabilities and weaknesses.
-* [Individual Dashboard ](http://lfx.linuxfoundation.org/tools/individual-dashboard)is your self-service hub for all of your open source activity. Build your personal profile, manage your credentials and contact details, update your affiliations, and track your community participation all in one place.
+* [Individual Dashboard ](http://lfx.linuxfoundation.org/tools/individual-dashboard)is your self-service hub for all of your open source activity. Build your profile, manage your credentials and contact details, update your affiliations, and track your community participation all in one place.
 * [EasyCLA ](http://lfx.linuxfoundation.org/tools/easycla)streamlines the management and execution of Contributor License Agreements (CLAs) so you can stay compliant with project policies.
 * [Mentorship](http://lfx.linuxfoundation.org/tools/mentorship) makes it easier than ever to pair promising open source talent with experienced mentors. Invest in building a stronger and more diverse community of qualified developers and engineers.
-* [Crowdfunding ](http://lfx.linuxfoundation.org/tools/crowdfunding)makes it possible for open source projects to raise money from individuals and organizations who believe in what they're building. Projects receive 100% of donations and manage their own funds.
+* [Crowdfunding ](http://lfx.linuxfoundation.org/tools/crowdfunding)makes it possible for open source projects to raise money from individuals and organizations who believe in what they're building. Projects receive 100% of donations and manage their funds.
 * [Member Enrollment](http://lfx.linuxfoundation.org/tools/member-enrollment) makes it easier than ever for people to join your project. Onboard new members faster with streamlined data entry and contract execution.
-* [Community Events](http://lfx.linuxfoundation.org/tools/community-events) allows you to easily host and manage events for your project community. Whether planning a virtual conference or working with local meetup organizers, our robust platform has you covered.
+* [Community Events](http://lfx.linuxfoundation.org/tools/community-events) Our platform streamlines hosting and organizing events for project communities. It supports virtual conferences and collaborations with local meetup organizers, providing a comprehensive solution for event management.
 * [Training Portal](http://lfx.linuxfoundation.org/tools/training-portal) provides individuals and corporate learners centralized access to The Linux Foundation’s extensive list of courses and certifications, developed and taught by expert instructors.
 * [Project Control Center](http://lfx.linuxfoundation.org/tools/product-control-center) (Limited Access Beta Early 2021) provides seamless operations support across governance, IT, and product management needs so you can focus on getting the work done.
 
 ## Who can access the LFX Platform? <a href="#communitybridgefaqs-whocanaccesscommunitybridge" id="communitybridgefaqs-whocanaccesscommunitybridge"></a>
 
-Developers and sponsors of open source projects hosted by The Linux Foundation can benefit from these tools today. Log in with your LFID and get started. Other tools, including Crowdfunding and Mentorship, provide valuable resources to community projects and the extended open source community.
+If you're developing or supporting open source projects under the Linux Foundation, you have access to several useful tools. Just sign in with your LFID to begin.
 
-## Is there a cost to using LFX Tools? <a href="#communitybridgefaqs-isthereacosttohostmyprojectoncommunitybridge" id="communitybridgefaqs-isthereacosttohostmyprojectoncommunitybridge"></a>
+Other tools, including Crowdfunding and Mentorship, provide valuable resources to community projects and the extended open source community.
 
-The LFX tools are provided as a value to developers and sponsors of open source projects hosted by the Linux Foundation. No fees of any kind are assessed to open source projects on the platform.
+The LFX tools are provided as a value to developers and sponsors of open source projects hosted by the Linux Foundation. The platform does not charge any fees for open source projects.
 
 ## How do I get started using LFX for my project? <a href="#communitybridgefaqs-howdoisubmitmyprojecttocommunitybridge" id="communitybridgefaqs-howdoisubmitmyprojecttocommunitybridge"></a>
 
