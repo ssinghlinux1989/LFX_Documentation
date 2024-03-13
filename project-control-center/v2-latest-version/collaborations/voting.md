@@ -19,17 +19,16 @@ Voting list table provides the following details:
 
 You can create a poll to be voted for a particular committee. To create a poll, perform the following steps:
 
-1.Log into the PCC.&#x20;
-
-2.The Project dashboard appears. Click **Voting** from the **Collaboration** tab.
+1. Log into the PCC.&#x20;
+2. The Project dashboard appears. Click **Voting** from the **Collaboration** tab.
 
 <figure><img src="../../../.gitbook/assets/Vot (1).png" alt=""><figcaption><p>Voting </p></figcaption></figure>
 
-3.Click **Create Poll**. &#x20;
+3. Click **Create Poll**. &#x20;
 
 <figure><img src="../../../.gitbook/assets/V1.png" alt=""><figcaption><p>Create Poll</p></figcaption></figure>
 
-4.The Create New Poll dialog box appears. Enter the following details and click Save.&#x20;
+4. The Create New Poll dialog box appears. Enter the following details and click Save.&#x20;
 
 | Field              | Description                                                        |
 | ------------------ | ------------------------------------------------------------------ |
@@ -49,38 +48,38 @@ Click **+ Add Option** and **+ Add Question** links to add multiple options and 
 
 ## Managing Poll
 
-You can manage a poll that has been created. You can view the results of the poll as well as send the reminders for the committee members to the participate in polls.&#x20;
+You can manage a poll that has been created. You can view the results of the poll as well as send reminders for the committee members to participate in polls.&#x20;
 
 <figure><img src="../../../.gitbook/assets/V2.png" alt=""><figcaption><p>Manage Poll </p></figcaption></figure>
 
 ### View Results
 
-To view results of the poll, perform the following steps:
+To view the results of the poll, perform the following steps:
 
-1.Click the <img src="../../../.gitbook/assets/Domdot.png" alt="" data-size="line"> icon under Mange and click **View Results**.&#x20;
+1. Click the <img src="../../../.gitbook/assets/Domdot.png" alt="" data-size="line"> icon under Mange and click **View Results**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/V3.png" alt=""><figcaption><p>View Results</p></figcaption></figure>
 
-2.The View Results dialog box appears with results details.&#x20;
+2. The View Results dialog box appears with results details.&#x20;
 
 {% hint style="info" %}
-On click of download icon, you can download the results in an image format.&#x20;
+Click download icon to download the results in an image format.&#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/V4.png" alt=""><figcaption><p>View Results </p></figcaption></figure>
 
 ### Send Reminder
 
-To send the reminder to the committee members to participate in the poll , perform the following steps:
+To send the reminder to the committee members to participate in the poll, perform the following steps:
 
-1.Click the <img src="../../../.gitbook/assets/Domdot.png" alt="" data-size="line"> icon under Mange and click **Send Reminder**.&#x20;
+1. Click the <img src="../../../.gitbook/assets/Domdot.png" alt="" data-size="line"> icon under Manage and click **Send Reminder**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/V5.png" alt=""><figcaption><p>Send Reminder </p></figcaption></figure>
 
-2.The Send Poll Reminder dialog box appears. Select the required members and click **Send** to send the reminder.&#x20;
+2. The Send Poll Reminder dialog box appears. Select the required members and click **Send** to send the reminder.&#x20;
 
 {% hint style="info" %}
-You can only send the reminders to the members who have not voted.&#x20;
+You can only send reminders to the members who have not voted.&#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/V6.png" alt=""><figcaption><p>Send </p></figcaption></figure>
